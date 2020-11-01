@@ -1,0 +1,29 @@
+p{
+	color : #9fc693;
+	font-size: 40px;
+	font-family: Modern, Calibri, Arial, cursive;
+	font-weight:lighter;
+	text-align :right;
+}
+
+.special{
+	
+	color : crimson;
+}
+
+
+#unique {
+	font-size : 90px;
+}
+
+a:link {
+	color: #9fc693;
+}
+
+a:visited {
+	color: crimson;
+}
+
+a:hover {
+	color: orange;
+}
